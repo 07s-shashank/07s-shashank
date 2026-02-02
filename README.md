@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Shashank 👋  
+🎯 Aspiring Data Scientist | ML & Analytics Enthusiast  
 
-<!--
-**07s-shashank/07s-shashank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 I love turning data into insights and building intelligent systems.
 
-Here are some ideas to get you started:
+## 🚀 Projects I'm Proud Of
+🔹 Driver Drowsiness Detection – Computer Vision safety system  
+🔹 Business Insights Dashboard – Power BI analytics project  
+🔹 HR Analytics Dashboard – KPI-based workforce analysis  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+Python | Pandas | NumPy | Scikit-learn  
+Power BI | Excel | SQL  
+Machine Learning | Data Visualization  
+
+## 📈 Currently Learning
+Deep Learning • NLP • Model Deployment  
+
+## 📫 Connect with me
+LinkedIn: linkedin.com/in/shashank-singh2127
