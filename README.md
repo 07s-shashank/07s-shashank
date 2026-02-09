@@ -11,7 +11,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:s.shashank2107@gmail.com)
 
 📄 **Resume:**  
-[![Resume](https://img.shields.io/badge/Download_Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)]([YOUR_RESUME_LINK_HERE](https://drive.google.com/file/d/1Pjhhe8keZ1mnrVQ2KLMllXwsPR0i03IL/view?usp=sharing))
+[![Resume](https://img.shields.io/badge/Download_Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1Pjhhe8keZ1mnrVQ2KLMllXwsPR0i03IL/view?usp=sharing)
 
 ---
 
